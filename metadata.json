@@ -1,0 +1,5 @@
+{
+  "name": "SentimenLens - Emotion Intelligence Dashboard",
+  "description": "A sophisticated text analysis tool that uses Gemini AI to detect deep emotional nuances, sentiment trends, and psychological insights from any text input.",
+  "requestFramePermissions": []
+}
